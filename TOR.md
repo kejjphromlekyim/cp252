@@ -9,6 +9,6 @@
 3. Admin can customized type of the user
 
 # Front-end spec for user
-1. User can spectate the curent-active parking lot.
+1. User can spectate the current-active parking lot.
 2. User can customized heir own profile.
 3. User can pre-reserved the parking lot that they want.
